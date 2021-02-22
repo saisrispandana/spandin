@@ -9,6 +9,7 @@ public class Nums {
 		int sum = x + y;
 		System.out.println(sum);
 		System.out.println("Span loves dinu");
+		System.out.println("Checking the commits");
 
 	}
 
