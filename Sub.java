@@ -8,6 +8,7 @@ public class Sub {
 		int y = 3;
 		int sub = x - y;
 		System.out.println(sub);
+		System.out.println("Sub commits");
 	}
 
 }
