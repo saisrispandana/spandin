@@ -10,6 +10,7 @@ public class Nums {
 		System.out.println(sum);
 		System.out.println("Span loves dinu");
 		System.out.println("Checking the commits");
+		System.out.println("Hello sum file");
 
 	}
 
