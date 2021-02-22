@@ -8,6 +8,7 @@ public class Mul {
 		int y = 6;
 		int mul = x * y;
 		System.out.println(mul);
+		System.out.println("checking changes for commit");
 	}
 
 }
